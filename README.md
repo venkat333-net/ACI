@@ -28,5 +28,5 @@ Escalation matrix and communication protocols
 
 # 6. KT & Documentation
 How to contribute to KB articles
-Participating in KT sessions with Ryan, Ed, Carlos
+Participating in KT sessions with cisco team
 Feedback loop for improving operational documentation
